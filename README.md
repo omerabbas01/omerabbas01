@@ -91,16 +91,7 @@ I care about:
 I work through **Axis Cyber Technologies (ACT)**, a software and technology company focused on custom digital solutions, product development, and practical R&D across modern software domains.
 
 - Website: [axiscyber.com](https://axiscyber.com)
-
----
-
-## Connect
-
-- Website: [Axis Cyber Technologies (ACT)](https://axiscyber.com)
-- LinkedIn: [Add LinkedIn URL](https://www.linkedin.com/)
-- Portfolio: [Add portfolio URL](https://example.com/)
-- Email: [Add professional email](mailto:your.email@example.com)
-- GitHub: [Add GitHub URL](https://github.com/)
+- GitHub: [github.com/omerabbas01](https://github.com/omerabbas01)
 
 ---
 
