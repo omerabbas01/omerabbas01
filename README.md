@@ -1,10 +1,10 @@
 # Omer Abbas
 
-## Software Systems Architect | Platform Engineering | Enterprise Delivery
+## Software Systems Architect for Platform Engineering & Enterprise Delivery
 
 18+ years across full-stack engineering, enterprise systems, DevOps architecture, native mobile/desktop applications, framework extensions, high-traffic platforms, and production delivery.
 
-I have worked professionally in full-stack software development since 2008, across large-scale web platforms, iOS and Android applications, Windows/macOS desktop software, backend/frontend frameworks, custom modules and plugins, native SDK integrations, game/interactive systems, blockchain/Web3 products, media/runtime systems, DevOps architecture, and long-term production delivery.
+Since 2008, I have worked across large-scale web platforms, iOS and Android applications, Windows/macOS desktop software, backend/frontend frameworks, custom modules and plugins, native SDK integrations, game/interactive systems, blockchain/Web3 products, media/runtime systems, DevOps architecture, and long-term platform evolution.
 
 My work sits where complex business requirements become production-ready software: system architecture, platform constraints, data and state models, algorithms, process engineering, runtime performance, integrations, documentation, team execution, deployment, maintenance, and technical governance.
 
@@ -35,7 +35,7 @@ Professional work: [Axis Cyber Technologies (ACT)](https://axiscyber.com)
 | Core Framework & Module Engineering | Custom modules, plugins, adapters, bridges, wrappers, and extensions around backend, frontend, mobile, media, computer vision, game, and platform frameworks |
 | Vendor Ecosystem Integrations | Google, YouTube, Meta/Facebook, Apple, and similar platform ecosystems involving SDKs, APIs, platform rules, quota limits, review constraints, and product integration behavior |
 | Computer Vision & Image Processing | OpenCV-based processing, custom modules/plugins, image transformation pipelines, visual analysis workflows, frame-level operations, and performance-sensitive integrations |
-| Video, Media & Streaming Systems | FFmpeg/Libav/OpenAV-style integrations, custom media pipeline work, RTSP-style stream handling, encoding/decoding considerations, buffering, synchronization, and stream processing |
+| Video, Media & Streaming Systems | FFmpeg/Libav-style integrations, custom media pipeline work, RTSP-style stream handling, encoding/decoding considerations, buffering, synchronization, and stream processing |
 | Graphics, Games & Rendering | OpenGL-based processing/rendering, Unity and other 2D/3D game frameworks, rendering lifecycle control, visual pipelines, real-time behavior, and performance-sensitive interaction |
 | Algorithms & Domain Logic | Validation systems, matching, ranking, scheduling, automation flows, decision logic, pricing/transaction rules, ledger-style flows, and domain-specific optimization |
 | Data, State & Consistency | Schema design, state transitions, history trails, reporting models, synchronization, lifecycle rules, data movement, and integration flows |
@@ -99,7 +99,7 @@ This includes:
 - Windows and macOS desktop applications, cross-platform tools, local application workflows, and runtime integrations
 - Unity and other 2D/3D game frameworks, interactive systems, real-time behavior, scoring/reward logic, and rendering-aware workflows
 - Blockchain/Web3 projects, NFT systems, wallet-connected flows, DApps, tokenized logic, crypto-related workflows, and fintech-style transaction models
-- Media, image, video, RTSP-style streaming, OpenCV-based processing, FFmpeg/Libav/OpenAV-style integrations, OpenGL-based rendering/processing, and runtime optimization
+- Media, image, video, RTSP-style streaming, OpenCV-based processing, FFmpeg/Libav-style integrations, OpenGL-based rendering/processing, and runtime optimization
 - Business automation, inventory/ERP-style operations, education/school systems, healthcare workflows, P2P platforms, marketplace systems, content platforms, and custom corporate software
 
 ---
@@ -152,6 +152,8 @@ I work through **Axis Cyber Technologies (ACT)** on software architecture, custo
 
 - Website: [axiscyber.com](https://axiscyber.com)
 - GitHub: [github.com/omerabbas01](https://github.com/omerabbas01)
+
+For architecture reviews, software rescue, custom platform development, or long-term technical delivery, reach me through **Axis Cyber Technologies (ACT)**.
 
 ---
 
