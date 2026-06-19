@@ -90,18 +90,18 @@ I focus on:
 
 ---
 
-## Applied Domains
+## Platform & Technology Scope
 
-- Enterprise custom software platforms
-- SaaS and multi-tenant product systems
-- AI-assisted development and automation systems
-- Cloud-deployed web platforms
-- Web3 and blockchain-enabled product flows
-- Mobile and cross-platform applications
-- Streaming and media workflow systems
-- IoT and embedded workflow concepts
-- R&D prototypes across emerging technologies
-- SEO-aware and analytics-ready digital product systems
+My work spans multiple technology surfaces, but the common thread is the same: designing systems that have clear architecture, reliable execution paths, maintainable codebases, and practical business value.
+
+- Enterprise platforms with complex users, roles, workflows, reporting, integrations, and operational controls
+- SaaS and multi-tenant systems with evolving product logic, administration layers, access models, and platform governance
+- AI-assisted engineering systems for research, planning, automation, task execution, code review, and project delivery control
+- Cloud-deployed software with environment planning, release workflows, server-side operations, and long-term maintainability
+- Web3 and blockchain-enabled systems involving wallets, DApps, smart-contract workflows, tokenized product logic, and decentralized platform models
+- Mobile and cross-platform systems connected to backend services, APIs, user workflows, and product operations
+- Streaming, media, IoT, embedded, AR/VR, game, and interactive systems where performance, state, devices, or real-time behavior matter
+- Digital product infrastructure where SEO, analytics, conversion flows, and business visibility need to be designed into the platform
 
 ---
 
